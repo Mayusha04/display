@@ -1,0 +1,20 @@
+.div {
+    height: 220px;
+    width: 650px;
+    background-color: rgba(6, 197, 70, 0.904);
+}
+Span {
+    display: block;
+    color: rgb(228, 6, 228);
+    padding: 25px;
+    font-size: 15px;
+}
+p {
+    display:inline-block ;
+    color: #0b4a8a93;
+    padding: 20px;
+    font-size: 30px;
+}
+#line1 {
+    padding: 30px;
+}
